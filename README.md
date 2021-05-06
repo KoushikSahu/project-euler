@@ -22,10 +22,12 @@ This repository contains my solutions to the project euler problemset. The code 
     ├── 31.java
     ├── 32.py
     ├── 33.py
+    ├── 34.cpp
     ├── 4.cpp
     ├── 4.py
     ├── 5.py
-    └── 6.py
+    ├── 6.py
+    └── a.out
 
-3 directories, 16 files
+3 directories, 18 files
 </pre>
