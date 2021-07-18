@@ -7,27 +7,28 @@ This repository contains my solutions to the project euler problemset. The code 
 ## File Structure
 <pre>
 .
+├── assets
+│   ├── base_README.md
+│   ├── img
+│   │   └── readme_banner.jpg
+│   └── README.md
 ├── Makefile
 ├── README.md
-├── assets
-│   ├── README.md
-│   ├── base_README.md
-│   └── img
-│       └── readme_banner.jpg
 └── src
     ├── 18.java
     ├── 19.java
-    ├── 3.cpp
-    ├── 3.py
     ├── 31.java
     ├── 32.py
     ├── 33.py
     ├── 34.cpp
+    ├── 36.py
+    ├── 37.py
+    ├── 3.cpp
+    ├── 3.py
     ├── 4.cpp
     ├── 4.py
     ├── 5.py
-    ├── 6.py
-    └── a.out
+    └── 6.py
 
-3 directories, 18 files
+3 directories, 19 files
 </pre>
