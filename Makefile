@@ -1,4 +1,4 @@
-all: update-readme
+all: clean update-readme
 
 update-readme:
 	cp assets/base_README.md assets/README.md
