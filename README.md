@@ -24,12 +24,14 @@ This repository contains my solutions to the project euler problemset. The code 
     ├── 36.py
     ├── 37.py
     ├── 38.py
+    ├── 39.py
     ├── 3.cpp
     ├── 3.py
+    ├── 40.py
     ├── 4.cpp
     ├── 4.py
     ├── 5.py
     └── 6.py
 
-3 directories, 20 files
+3 directories, 22 files
 </pre>
