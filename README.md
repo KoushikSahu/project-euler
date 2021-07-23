@@ -11,6 +11,7 @@ This repository contains my solutions to the project euler problemset. The code 
 │   ├── base_README.md
 │   ├── img
 │   │   └── readme_banner.jpg
+│   ├── p042_words.txt
 │   └── README.md
 ├── Makefile
 ├── README.md
@@ -29,10 +30,11 @@ This repository contains my solutions to the project euler problemset. The code 
     ├── 3.py
     ├── 40.py
     ├── 41.py
+    ├── 42.py
     ├── 4.cpp
     ├── 4.py
     ├── 5.py
     └── 6.py
 
-3 directories, 23 files
+3 directories, 25 files
 </pre>
