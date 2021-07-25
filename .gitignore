@@ -1,3 +1,7 @@
 # binaries
 *.out
 *.class
+*.exe
+
+# python caches
+__pycache__/
