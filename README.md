@@ -7,6 +7,7 @@ This repository contains my solutions to the project euler problemset. The code 
 ## File Structure
 <pre>
 .
+├── a.out
 ├── assets
 │   ├── base_README.md
 │   ├── img
@@ -15,26 +16,28 @@ This repository contains my solutions to the project euler problemset. The code 
 │   └── README.md
 ├── Makefile
 ├── README.md
-└── src
-    ├── 18.java
-    ├── 19.java
-    ├── 31.java
-    ├── 32.py
-    ├── 33.py
-    ├── 34.cpp
-    ├── 36.py
-    ├── 37.py
-    ├── 38.py
-    ├── 39.py
-    ├── 3.cpp
-    ├── 3.py
-    ├── 40.py
-    ├── 41.py
-    ├── 42.py
-    ├── 4.cpp
-    ├── 4.py
-    ├── 5.py
-    └── 6.py
+├── src
+│   ├── 18.java
+│   ├── 19.java
+│   ├── 31.java
+│   ├── 32.py
+│   ├── 33.py
+│   ├── 34.cpp
+│   ├── 36.py
+│   ├── 37.py
+│   ├── 38.py
+│   ├── 39.py
+│   ├── 3.cpp
+│   ├── 3.py
+│   ├── 40.py
+│   ├── 41.py
+│   ├── 42.py
+│   ├── 43.py
+│   ├── 4.cpp
+│   ├── 4.py
+│   ├── 5.py
+│   └── 6.py
+└── test.sh
 
-3 directories, 25 files
+3 directories, 28 files
 </pre>
