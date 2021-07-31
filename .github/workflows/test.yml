@@ -14,4 +14,4 @@ jobs:
       - name: install packages
         run: sudo apt-get install build-essential python3 default-jdk -y
       - name: run tests
-        run: sh test.sh
+        run: sh tests/test.sh
