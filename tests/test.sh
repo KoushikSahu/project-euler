@@ -1,5 +1,6 @@
 for file in `ls ./src`
     do
+        echo "Running test for $file"
         if [[ $file == *.py ]]
             then
                 python3 -m py_compile src/$file
