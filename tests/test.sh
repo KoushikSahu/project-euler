@@ -1,3 +1,5 @@
+#!/bin/bash
+
 for file in `ls ./src`
     do
         echo "Running test for $file"
@@ -10,5 +12,8 @@ for file in `ls ./src`
         elif [[ $file == *.java ]]
             then
                 javac src/$file
+        else
+            echo "Unknown file type"
+            return 1
         fi            
     done
