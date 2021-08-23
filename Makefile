@@ -9,5 +9,5 @@ update-readme:
 	rm -rf assets/README.md
 
 clean:
-	rm -rf src/*.out src/*.class
+	rm -rf src/*.out src/*.class src/*.exe
 

@@ -39,10 +39,9 @@ This repository contains my solutions to the project euler problemset. The code 
 │   ├── 4.cpp
 │   ├── 4.py
 │   ├── 5.py
-│   ├── 6.py
-│   └── a.exe
+│   └── 6.py
 └── tests
     └── test.sh
 
-4 directories, 32 files
+4 directories, 31 files
 </pre>
