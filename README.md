@@ -7,7 +7,6 @@ This repository contains my solutions to the project euler problemset. The code 
 ## File Structure
 <pre>
 .
-├── a.out
 ├── assets
 │   ├── base_README.md
 │   ├── img
@@ -37,6 +36,7 @@ This repository contains my solutions to the project euler problemset. The code 
 │   ├── 44.py
 │   ├── 45.py
 │   ├── 46.py
+│   ├── 47.py
 │   ├── 4.cpp
 │   ├── 4.py
 │   ├── 5.py
