@@ -37,6 +37,7 @@ This repository contains my solutions to the project euler problemset. The code 
 │   ├── 45.py
 │   ├── 46.py
 │   ├── 47.py
+│   ├── 48.py
 │   ├── 4.cpp
 │   ├── 4.py
 │   ├── 5.py
@@ -44,5 +45,5 @@ This repository contains my solutions to the project euler problemset. The code 
 └── tests
     └── test.sh
 
-4 directories, 32 files
+4 directories, 33 files
 </pre>
